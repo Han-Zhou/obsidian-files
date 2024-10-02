@@ -1,0 +1,79 @@
+\documentclass{article}
+\usepackage[T1]{fontenc}
+\usepackage{setspace}
+\usepackage[parfill]{parskip}
+\usepackage[margin=1in]{geometry}
+\usepackage{amsmath}
+\spacing{0.4}
+
+\newcommand{\vv}{\vspace{1em}}
+
+\begin{document}
+
+Process of supervised learning:
+\begin{enumerate}
+    \item Training Set -> Learning Algorithm -> Output a function to make predictions
+    \item Outputs Hypothesis (h)
+    \item h takes an input and produces a prediction
+\end{enumerate}
+
+\vspace{1em}
+
+How to represent h?  
+
+$h(x)=\theta_0 + \theta_1x_1 + \theta_2x_2$  
+$x_1 = size$  
+$x_2 = number \ of\  bedrooms$
+
+
+In general,  
+\[
+    h(x) = \sum_{j=0}^2\theta_jx_j, \\  
+where \ x_0 = 1
+\]
+
+\begin{align*}
+    \theta &= \text{parameters} \\
+    m &= \text{\# training examples} \\
+    x &= \text{inputs} \\
+    y &= \text{output} \\
+    (x,y) &= \text{training example} \\
+    (x^{i}, y^{i}) &= \text{ith training example} \\
+\end{align*}
+
+\vv
+
+
+Choose $\theta$ st.\ h(x) is close to y
+\[
+    h_{\theta}(x) = h(x)
+\]
+
+minimize 
+\[
+    J(\theta) = \frac{1}{2}\sum^m_{i=1 }(h_{\theta}(x^{(i)}) - y^{(i)})
+\]
+
+
+\vv
+\vv
+
+\textbf{Gradient Descent}
+
+\begin{align*}
+    \theta_j = \theta_j - \alpha \frac{\partial}{\partial\theta_j} \\
+    \alpha = \text{learning rate}
+\end{align*}
+df
+
+aa
+
+fdf
+
+
+
+
+
+
+
+\end{document}

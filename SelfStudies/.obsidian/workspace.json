@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "b8496cec91509e54",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a9b1e6fc2de32f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "60d4c05ca45c7bc1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machine_Learning/Neural Networks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "beafe7228efc712b",
+    "type": "split",
+    "children": [
+      {
+        "id": "6953cb5659e114f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1cb72824519d6bb9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1304bda32f51b4b6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a8bb24f9d57803e1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "6178c4a6242e7b07",
+    "type": "split",
+    "children": [
+      {
+        "id": "9586eb6acd7a8273",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "497441e256ee656e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Machine_Learning/Neural Networks.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4899513b9d2ce655",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Machine_Learning/Neural Networks.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c3b2541492b05303",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d868bbd0c45d23b7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Machine_Learning/Neural Networks.md"
+              }
+            }
+          },
+          {
+            "id": "e5d0f8ad1bc0eb53",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "77835a8b1d54aa40",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "1cb72824519d6bb9",
+  "lastOpenFiles": [
+    "Machine_Learning/Gradient descent.md",
+    "Machine_Learning/Neural Networks.md",
+    "Machine_Learning/Standford_CS229/LinearRegressionAndGradientDescent.pdf",
+    "Machine_Learning/Standford_CS229/Linear_Regression_&_Gradient_Descent.md",
+    "CSAPP/assets/Pasted image 20240825230943.png",
+    "CSAPP/assets",
+    "CSAPP/assets/Pasted image 20240825175809.png",
+    "CSAPP/A_tour_of_computer_systems.md",
+    "Intro_to_Algorithms/ch4>Divide-And-Conquer/The-Master-Method 4.5&4.6.md",
+    "CSAPP",
+    "APUE/UNIX_system_overview.md",
+    "Intro_to_Algorithms/ch4>Divide-And-Conquer/Untitled.md",
+    "Intro_to_Algorithms/ch4>Divide-And-Conquer/The-Master-Medthod",
+    "Intro_to_Algorithms/Untitled.md",
+    "Intro_to_Algorithms/ch4:Divide-And-Conquer/The-Master-Method",
+    "Intro_to_Algorithms/ch4>Divide-And-Conquer",
+    "Intro_to_Algorithms",
+    "Eclipse/Firebase/REST api.md",
+    "CS_self_2023/HTTP/Network Protocol.md",
+    "Eclipse/Firebase/Webservers.md",
+    "Eclipse/Firebase",
+    "Eclipse",
+    "CS_self_2023/HTTP/HTTP Request methods.md",
+    "CS_self_2023/Pasted image 20230615161725.png",
+    "CS_self_2023/Untitled.md",
+    "CS_self_2023/HTTP/Untitled.canvas",
+    "CS_self_2023/HTTP/Questions.png",
+    "CS_self_2023/HTTP/HTTP Overview.md",
+    "CS_self_2023/HTTP/HTTP Cookies.md",
+    "Pasted image 20230615125114.png",
+    "CS_self/HTTP/QUestions.png",
+    "CS_self/HTTP.md",
+    "Pasted image 20230614182003.png",
+    "CS_self_2023/HTTP"
+  ]
+}
