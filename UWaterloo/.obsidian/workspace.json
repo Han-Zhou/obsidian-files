@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS246E/W5L2 P12.md",
+                "file": "CS246E/W5L3 P14, P15.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8f69f7ace3b13e53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS246E/Reorganized/P15. Less Copying!.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS246E/W5L2 P12.md",
+                "file": "CS246E/Reorganized/P15. Less Copying!.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS246E/W5L2 P12.md",
+                "file": "CS246E/Reorganized/P15. Less Copying!.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS246E/W5L2 P12.md"
+                "file": "CS246E/Reorganized/P15. Less Copying!.md"
               }
             }
           }
@@ -148,11 +161,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a6b742a0e1c72da8",
+  "active": "8f69f7ace3b13e53",
   "lastOpenFiles": [
-    "CS246E/W5L1 P11.md",
-    "CS246E/W5L2 P12.md",
+    "CS246E/W5L3 P14, P15.md",
+    "CS246E/Reorganized/P15. Less Copying!.md",
+    "CS246E/Reorganized/P14. Actually ... I want a vector of posns.md",
+    "CS246E/W5L2 P13, P14.md",
+    "CS246E/Reorganized/P13. Where do I even start?.md",
+    "CS246E/W5L1 P11, 12, 13.md",
+    "CS246E/Reorganized/P12. But I wanted a vector of chars ....md",
+    "CS246E/Reorganized/P11. Now you've gone too far!.md",
     "CS246E/W4L3 P10, P11.md",
+    "CS246E/Reorganized/P10. Walk faster!.md",
+    "CS246E/W4L2 P9, P10.md",
+    "CS246E/Reorganized/P9. keep it a secret to everybody.md",
+    "CS246E/W4L1 P8, P9 keep it a secret to everybody.md",
     "MATH245/assets/Pasted image 20240929161511.png",
     "MATH245/assets/Pasted image 20240929161347.png",
     "MATH245/assets/Pasted image 20240929161321.png",
@@ -174,18 +197,8 @@
     "MATH245/W3L2 Computing Jordan Canonical Form.md",
     "MATH245/W2L2.md",
     "CS246E/W3L1 P5, P6.md",
-    "CS246E/W4L1 P8, P9 keep it a secret to everybody.md",
     "CS246E/W3L3 P7, Types of Values, P8.md",
     "CS246E/W3L2 P6, P7 Thievery.md",
-    "CS246E/W2L3 P5. You're doing it all wrong.md",
-    "CS246E/W4L2 P9, P10.md",
-    "CS246E/Reorganized/P9. keep it a secret to everybody.md",
-    "CS246E/Reorganized/P8. I don't like change..md",
-    "CS246E/Reorganized/P7. Thievery.md",
-    "CS246E/Reorganized/P6. The copier is broken.md",
-    "CS246E/Reorganized/P5. You're doing it wrong!.md",
-    "CS246E/W2L2 P4. Arrays and Vectors.md",
-    "CS246E/Reorganized/P4. Linear collections + Memory management.md",
     "CS246E/Reorganized",
     "CS246E/W4L1",
     "CS245",
